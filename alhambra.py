@@ -1,5 +1,6 @@
 import random
 
+#I don't remember what these are doing...
 card_color = lambda c: c[0]
 card_value = lambda c: int(c[1])
 tile_kind = lambda t: t[0]
